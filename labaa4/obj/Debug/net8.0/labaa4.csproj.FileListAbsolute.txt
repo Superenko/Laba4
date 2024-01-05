@@ -1,0 +1,14 @@
+D:\C#\labaa4\obj\Debug\net8.0\labaa4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\labaa4\obj\Debug\net8.0\labaa4.AssemblyInfoInputs.cache
+D:\C#\labaa4\obj\Debug\net8.0\labaa4.AssemblyInfo.cs
+D:\C#\labaa4\obj\Debug\net8.0\labaa4.csproj.CoreCompileInputs.cache
+D:\C#\labaa4\bin\Debug\net8.0\labaa4.exe
+D:\C#\labaa4\bin\Debug\net8.0\labaa4.deps.json
+D:\C#\labaa4\bin\Debug\net8.0\labaa4.runtimeconfig.json
+D:\C#\labaa4\bin\Debug\net8.0\labaa4.dll
+D:\C#\labaa4\bin\Debug\net8.0\labaa4.pdb
+D:\C#\labaa4\obj\Debug\net8.0\labaa4.dll
+D:\C#\labaa4\obj\Debug\net8.0\refint\labaa4.dll
+D:\C#\labaa4\obj\Debug\net8.0\labaa4.pdb
+D:\C#\labaa4\obj\Debug\net8.0\labaa4.genruntimeconfig.cache
+D:\C#\labaa4\obj\Debug\net8.0\ref\labaa4.dll
